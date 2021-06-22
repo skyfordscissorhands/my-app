@@ -1,0 +1,13 @@
+.section {
+    background: #f3e5f5;
+    padding: 20px;
+  }
+  
+  .section h2 {
+    text-align: center;
+  }
+  body {
+    background-color: lavenderblush;
+    margin: 10px 20px;
+    padding: 10px;
+  }

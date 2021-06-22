@@ -1,0 +1,13 @@
+.navbar {
+    background-color: rosybrown; /* For browsers that do not support gradients */
+    background-image: linear-gradient(rosybrown, rgb(88, 16, 88));
+      height: 60px;
+    }
+    
+    .navbar a {
+      color: rgb(233, 213, 213);
+      font-size: 1.3rem;
+      text-decoration: none;
+      margin: 5px;
+      line-height: 3;
+    }
